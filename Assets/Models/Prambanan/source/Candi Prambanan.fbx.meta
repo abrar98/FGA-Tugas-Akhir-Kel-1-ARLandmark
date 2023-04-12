@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: dd6cd6777c562394c972af6db0085802
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ancient_Temple_Wall
+    second: {fileID: 2100000, guid: 06751f157e843dd49a5504b6f575dccb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ancient_Temple_Wall_7
+    second: {fileID: 2100000, guid: f953222538dc77e43ae0daa8cdd2c831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Japanese_Park_Stairs
+    second: {fileID: 2100000, guid: 69477e11fa105a54da35333e5162f6d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object_auto_
+    second: {fileID: 2100000, guid: bef47cfef543876488aa895b412342b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object_auto_1
+    second: {fileID: 2100000, guid: be04f3bcef4a80842b5c4b7289cf39c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object_auto_2
+    second: {fileID: 2100000, guid: 1f3c1bb7cc6cdda42a0d49afabb3ed8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object_auto_3
+    second: {fileID: 2100000, guid: 29aa4d2eca11d0540bf5e22ba3681bb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Temple_Stone_Tiles
+    second: {fileID: 2100000, guid: 5f11cc2df6c73114bae7974d1ce7c3d5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_M_Prambanan_Ancient_Temple_Wall_2_EE29933B724ACE0647A482AE4DCF2DD7_BaseColor
+    second: {fileID: 2800000, guid: 539ddabb981985a41855116720951b5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_M_Prambanan_Ancient_Temple_Wall_7_EE29933B724ACE0647A482AE4DCF2DD7_BaseColor
+    second: {fileID: 2800000, guid: eeb9dd0e201d3934d91e625fa9aaf1a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_M_Prambanan_Japanese_Park_Stairs_EE29933B724ACE0647A482AE4DCF2DD7_BaseColor
+    second: {fileID: 2800000, guid: 207f65ffb0ccee94eb84a2d07c97f5aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_M_Prambanan_Object_auto_1_EE29933B724ACE0647A482AE4DCF2DD7_BaseColor
+    second: {fileID: 2800000, guid: 17c81effe0cd20843bfdf3b9702dd805, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_M_Prambanan_Object_auto_2_EE29933B724ACE0647A482AE4DCF2DD7_BaseColor
+    second: {fileID: 2800000, guid: f66cd565f805e6e46893685cc27bfbdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_M_Prambanan_Object_auto__EE29933B724ACE0647A482AE4DCF2DD7_BaseColor
+    second: {fileID: 2800000, guid: bd7a68b0da5da6343b972dd3fc8d5b69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_M_Prambanan_Temple_Stone_Tiles_EE29933B724ACE0647A482AE4DCF2DD7_BaseColor
+    second: {fileID: 2800000, guid: 5faccc3ba2e4af647bcbedb6fd4f6672, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 2
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 59
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

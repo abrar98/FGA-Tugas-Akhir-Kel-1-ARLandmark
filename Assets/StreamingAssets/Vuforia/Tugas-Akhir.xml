@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="agung" size="10.000000 9.536133" />
+    <ImageTarget name="bromo" size="10.000000 10.692307" />
+    <ImageTarget name="Monas" size="10.000000 10.800000" />
+    <ImageTarget name="TuguJogja" size="10.000000 10.800000" />
+    <ImageTarget name="tikus" size="10.000000 10.800000" />
+    <ImageTarget name="borobudur" size="10.000000 7.800000" />
+  </Tracking>
+</QCARConfig>
